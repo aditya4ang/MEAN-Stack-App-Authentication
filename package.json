@@ -1,5 +1,5 @@
 {
-  "name": "mean-stack-hero",
+  "name": "mean-stack-app-authentication",
   "version": "1.0.0",
   "description": "This repo contains the MEAN stack application that is built through  Full Stack Training's MEAN Stack course.",
   "main": "app.js",
@@ -24,7 +24,7 @@
     "type": "git",
     "url": "git+https://github.com/fullstacktraining/mean-stack-hero.git"
   },
-  "author": "Full Stack Training",
+  "author": "Aditya",
   "keywords": [
     "mean"
   ],
